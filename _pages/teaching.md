@@ -8,13 +8,13 @@ nav_order: 6
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/1.jpg" class="img-fluid rounded z-depth-1" zoomable=true sizes="95vw" %}
+        {% include figure.liquid path="assets/img/teaching/1.jpg" class="img-fluid rounded z-depth-1" zoomable=false sizes="95vw" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/2.jpg" class="img-fluid rounded z-depth-1" zoomable=true sizes="95vw" %}
+        {% include figure.liquid path="assets/img/teaching/2.jpg" class="img-fluid rounded z-depth-1" zoomable=false sizes="95vw" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/4.jpg" class="img-fluid rounded z-depth-1" zoomable=true sizes="95vw" %}
+        {% include figure.liquid path="assets/img/teaching/4.jpg" class="img-fluid rounded z-depth-1" zoomable=false sizes="95vw" %}
     </div>
 </div>
 
@@ -25,13 +25,13 @@ I align my course with the Wageningen University & Research (WUR) mission to exp
 
 <div class="row mt-3">
  <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/3.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/5.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/6.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 
@@ -47,13 +47,13 @@ In my "Sensors and Devices" course, I have moved away from the traditional "cook
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/7.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/9.png" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/9.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/8.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 
@@ -65,13 +65,13 @@ For PhD students and professionals, I bridge the gap between "Open Science" theo
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/11.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/11.PNG" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/10.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/10.png" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/13.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 
@@ -83,7 +83,7 @@ Science communication is most effective when it is tactile and visual. I use the
 
 **Makerspaces & Festivals**: From MakerFaires to Biodiversity Days, I host hands-on sessions where people build their own ESPressoscopes and look for Tardigrades in the environment. By putting a 3D-printed microscope in someone's hand, I demystify technology and show that science is accessible to everyone, not just those in white lab coats.
 
-##Education related publications: 
+## Education related publications: 
 
 [A 3D printer in the Lab: Not Only a Toy](https://doi.org/10.1002/advs.202202610)
 
@@ -94,12 +94,12 @@ Science communication is most effective when it is tactile and visual. I use the
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/14.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/15.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/15.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/teaching/16.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/teaching/16.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
