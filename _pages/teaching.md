@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching and Outreach: Cultivating the "Maker" Scientist"
+description: Teaching and Outreach - Cultivating the "Maker" Scientist"
 nav: true
 nav_order: 6
 ---
