@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-12'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: Stoichiometry alone can steer supramolecular systems on complex free energy surfaces with high selectivity
     year: '2021'
   AlppnJ4AAAAJ:48xauSegjOkC:
-    citations: 48
+    citations: 49
     title: Coupling 3D printing and novel replica molding for in house fabrication of skeletal muscle tissue engineering devices
     year: '2020'
   AlppnJ4AAAAJ:4X0JR2_MtJMC:
@@ -238,7 +238,7 @@ papers:
     title: "Localized template\u2010driven functionalization of nanoparticles by dynamic combinatorial chemistry"
     year: '2015'
   AlppnJ4AAAAJ:artPoR2Yc-kC:
-    citations: 55
+    citations: 54
     title: Loop-mediated isothermal amplification (LAMP) shield for Arduino DNA detection
     year: '2018'
   AlppnJ4AAAAJ:buQ7SEKw-1sC:
@@ -273,6 +273,10 @@ papers:
     citations: 7
     title: On the influence of protein aggregate sizes for the formation of solid and hollow protein microparticles
     year: '2023'
+  AlppnJ4AAAAJ:jE2MZjpN3IcC:
+    citations: 0
+    title: Variable pathlength cell for internal data validation in computer vision
+    year: Unknown Year
   AlppnJ4AAAAJ:jFemdcug13IC:
     citations: 0
     title: Microfluidic-driven short peptides hydrogels with optical waveguiding property
@@ -286,7 +290,7 @@ papers:
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
-    citations: 30
+    citations: 31
     title: Highly contractile 3D tissue engineered skeletal muscles from human iPSCs reveal similarities with primary myoblast-derived tissues
     year: '2023'
   AlppnJ4AAAAJ:lgwcVrK6X84C:
@@ -362,7 +366,7 @@ papers:
     title: Coronatest in een espressocupje
     year: '2021'
   AlppnJ4AAAAJ:zCSUwVk65WsC:
-    citations: 73
+    citations: 74
     title: Ender3 3D printer kit transformed into open, programmable syringe pump set
     year: '2021'
   AlppnJ4AAAAJ:zYLM7Y9cAGgC:
