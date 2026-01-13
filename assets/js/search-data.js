@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "A growing collection of your cool projects.",
+          description: "My research is driven by a singular mission. The democratization of science through the intersection of NanoTechnology, Material Science, and Open Hardware. I believe that high-end scientific discovery should not be gated by expensive commercial equipment or specialized cleanroom facilities. By repurposing consumer technologies, such as 3D printers and low-cost microcontrollers, I develop &quot;Open Technologies&quot; that empower researchers to fabricate complex 3D microfluidics, automate entire lab workflows, and deploy sophisticated diagnostic sensors in remote, resource-limited settings. Whether it is transforming a cheap 3D printer into a precision laboratory robot or engineering sustainable, bio-based resins for additive manufacturing, my goal is to provide the global scientific community with the tools to innovate freely, transparently, and affordably.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-microfluidics-amp-microfabrication",
+          title: 'Microfluidics &amp;amp; Microfabrication',
+          description: "democratizing microlfuidics, one chip at the time",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
