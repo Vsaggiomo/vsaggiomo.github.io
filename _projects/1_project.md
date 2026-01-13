@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microfluidics & Microfabrication
-description: democratizing microlfuidics, one chip at the time
+description: democratizing microfluidics, one chip at the time
 img: assets/img/micro1.jpg
 importance: 1
 category: work
@@ -16,7 +16,7 @@ My research is driven by the goal of democratizing high-end science through Open
     </div>
 </div>
 
-Key examples of this approach include ESCARGOT (Embedded SCAffold RemovinG Open Technology), which utilizes sacrificial 3D-printed scaffolds to create intricate 3D architectures in PDMS, and COMPLOT, a method for covalent surface patterning inside microchannels for supramolecular sensing. Beyond fabrication, I develop integrated analytical solutions such as micro-NMR flow setups for mass-limited samples and variable pathlength cells designed for automated, real-time data validation using computer vision. 
+Key examples of this approach include ESCARGOT (Embedded SCAffold RemovinG Open Technology){% cite saggiomo2015simple %}, which utilizes sacrificial 3D-printed scaffolds to create intricate 3D architectures in PDMS, and COMPLOT, a method for covalent surface patterning inside microchannels for supramolecular sensing. Beyond fabrication, I develop integrated analytical solutions such as micro-NMR flow setups for mass-limited samples and variable pathlength cells designed for automated, real-time data validation using computer vision. 
 
 
 <div class="row">
