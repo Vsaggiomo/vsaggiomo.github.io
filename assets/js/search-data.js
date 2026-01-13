@@ -425,7 +425,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-microfluidics-amp-microfabrication",
           title: 'Microfluidics &amp;amp; Microfabrication',
-          description: "democratizing microlfuidics, one chip at the time",
+          description: "democratizing microfluidics, one chip at the time",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
