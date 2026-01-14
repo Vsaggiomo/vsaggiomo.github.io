@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sense
+title: Sensors
 description: Sensing From the Lab to the Field
 img: assets/img/sens2.jpg
 importance: 2
@@ -39,9 +39,6 @@ Arduino LAMP Shields {% cite velders2018loop %}: For more automated needs, I des
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sens5.jpg" title="scope2" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sens6.jpg" title="scope3" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 
 ### Physical and Visual Sensing
@@ -55,6 +52,6 @@ Staircase Microfluidics {% cite staircase2023 %}: To simplify the detection of m
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sens8.jpg" title="simba" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sens6.jpg" title="scope3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
