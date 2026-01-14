@@ -428,8 +428,8 @@ ninja.data = [{
           description: "democratizing microfluidics, one chip at the time",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-sense",
-          title: 'Sense',
+            },},{id: "projects-sensors",
+          title: 'Sensors',
           description: "Sensing From the Lab to the Field",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
