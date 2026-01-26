@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "My research is driven by a singular mission. The democratization of science through the intersection of NanoTechnology, Material Science, and Open Hardware. I believe that high-end scientific discovery should not be gated by expensive commercial equipment or specialized cleanroom facilities. By repurposing consumer technologies, such as 3D printers and low-cost microcontrollers, I develop &quot;Open Technologies&quot; that empower researchers to fabricate complex 3D microfluidics, automate entire lab workflows, and deploy sophisticated diagnostic sensors in remote, resource-limited settings. Whether it is transforming a cheap 3D printer into a precision laboratory robot or engineering sustainable, bio-based resins for additive manufacturing, my goal is to provide the global scientific community with the tools to innovate freely, transparently, and affordably.",
+          description: "My research is driven by a singular mission. The democratization of science through the intersection of NanoTechnology, Material Science, and Open Hardware. I believe that high-end scientific discovery should not be gated by expensive commercial equipment or specialized cleanroom facilities. By repurposing consumer technologies, such as 3D printers and low-cost microcontrollers, we develop &quot;Open Technologies&quot; that empower researchers to fabricate complex 3D microfluidics, automate entire lab workflows, and deploy sophisticated diagnostic sensors in remote, resource-limited settings. Whether it is transforming a cheap 3D printer into a precision laboratory robot or engineering sustainable, bio-based resins for additive manufacturing, my goal is to provide the global scientific community with the tools to innovate freely, transparently, and affordably. Here you can also find my &quot;fun&quot; projects and hobbies.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -36,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -443,29 +436,19 @@ ninja.data = [{
           description: "for 3D printing.... and more",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-photography",
+          title: 'Photography',
+          description: "Analog and Digital",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-random-hardware",
+          title: 'Random Hardware',
+          description: "Open Hardware Replication",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-olympic-shooting",
+          title: 'Olympic Shooting',
+          description: "The Zen and the Art of Shooting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
