@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Photography
+description: Analog and Digital
 img: assets/img/1.jpg
-importance: 3
+importance: 1
 category: fun
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Olympic Shooting
+description: The Zen and the Art of Shooting 
 img: assets/img/6.jpg
-importance: 4
+importance: 3
 category: fun
 ---
 
