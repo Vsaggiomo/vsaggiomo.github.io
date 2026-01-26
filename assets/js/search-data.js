@@ -423,8 +423,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-microfluidics-amp-microfabrication",
-          title: 'Microfluidics &amp;amp; Microfabrication',
+          section: "News",},{id: "projects-unconventional-microfluidics",
+          title: 'Unconventional Microfluidics',
           description: "democratizing microfluidics, one chip at the time",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -433,14 +433,14 @@ ninja.data = [{
           description: "Sensing From the Lab to the Field",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-devices",
+          title: 'Devices',
+          description: "Innovation through Repurposing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-advanced-materials",
+          title: 'Advanced Materials',
+          description: "for 3D printing.... and more",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
