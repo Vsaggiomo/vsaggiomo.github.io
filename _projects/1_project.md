@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microfluidics & Microfabrication
+title: Unconventional Microfluidics
 description: democratizing microfluidics, one chip at the time
 img: assets/img/micro1.jpg
 importance: 1
