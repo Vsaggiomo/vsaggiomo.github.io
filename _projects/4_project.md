@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Materials
-description: for 3D printing.... and more
+description: For 3D Printing.... and more
 img: assets/img/mat1.jpg
 importance: 4
 category: work

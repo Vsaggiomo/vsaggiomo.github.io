@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Random Hardware 
-description: Open Hardware Replication
+title: Photography
+description: Digital 
 img:
 importance: 2
 category: fun

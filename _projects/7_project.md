@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Olympic Shooting
-description: The Zen and the Art of Shooting 
+title: Children's book 
+description: Mostly Coloring Books 
 img: assets/img/6.jpg
 importance: 3
 category: fun
