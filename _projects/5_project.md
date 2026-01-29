@@ -41,8 +41,83 @@ For the rest, most of the time I have a 35mm pocket camera with me. Sizewise and
 Now, am I good at it? Probably not, but I like it. 
 
 
-<a href="/assets/img/analog/photo1.jpg" data-lightbox="roadtrip"><img src="/assets/img/analog/photo1.jpg" /></a>
-<a href="/assets/img/analog/photo2.jpg" data-lightbox="roadtrip"><img src="/assets/img/analog/photo2.jpg" /></a>
-<a href="/assets/img/analog/photo3.jpg" data-lightbox="roadtrip"><img src="/assets/img/analog/photo3.jpg" /></a>
-<a href="/assets/img/analog/photo4.jpg" data-lightbox="roadtrip"><img src="/assets/img/analog/photo4.jpg" /></a>
-<a href="/assets/img/analog/photo5.jpg" data-lightbox="roadtrip"><img src="/assets/img/analog/photo5.jpg" /></a>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo1.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo2.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo3.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo4.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo5.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo6.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo7.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo8.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo9.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo10.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo11.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo12.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo13.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo14.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo15.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo16.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo17.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo18.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo19.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/analog/photo20.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
