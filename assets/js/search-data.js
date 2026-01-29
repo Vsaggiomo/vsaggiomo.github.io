@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-unconventional-microfluidics",
           title: 'Unconventional Microfluidics',
-          description: "democratizing microfluidics, one chip at the time",
+          description: "Democratizing Microfluidics, One Chip at the Time",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-sensors",
@@ -433,25 +433,37 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-advanced-materials",
           title: 'Advanced Materials',
-          description: "for 3D printing.... and more",
+          description: "For 3D Printing.... and more",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-photography",
           title: 'Photography',
-          description: "Analog and Digital",
+          description: "Analog",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-random-hardware",
-          title: 'Random Hardware',
-          description: "Open Hardware Replication",
+            },},{id: "projects-photography",
+          title: 'Photography',
+          description: "Digital",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-olympic-shooting",
-          title: 'Olympic Shooting',
-          description: "The Zen and the Art of Shooting",
+            },},{id: "projects-children-39-s-book",
+          title: 'Children&amp;#39;s book',
+          description: "Mostly Coloring Books",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-random-hardware",
+          title: 'Random Hardware',
+          description: "Replication and Modification",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%76%73%61%67%67%69%6F%6D%6F@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
@@ -459,18 +471,11 @@ ninja.data = [{
           window.open("https://bsky.app/profile/vsaggiomo.bsky.social", "_blank");
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-youtube',
+        title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%76%73%61%67%67%69%6F%6D%6F@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("https://youtube.com/@v_saggiomo", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -480,13 +485,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/vittorio-saggiomo-42920617b", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0001-7196-602X", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -494,11 +492,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=AlppnJ4AAAAJ", "_blank");
         },
       },{
-        id: 'social-youtube',
-        title: 'YouTube',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@v_saggiomo", "_blank");
+          window.open("https://orcid.org/0000-0001-7196-602X", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/ShortCV.pdf", "_blank");
         },
       },{
       id: 'light-theme',
