@@ -5,6 +5,8 @@ description: Analog
 img: assets/img/analog/dual.jpg
 importance: 1
 category: fun
+images:
+  lightbox2: true
 ---
 
 I was lucky enough that my father thought me the basics of photography long time ago. He had a small dark room where he devloped and print his photos while I bother him. Flash forward 40 years and more, and I'm here, collecting analog cameras and developing my negatives. 
@@ -21,7 +23,7 @@ I was lucky enough that my father thought me the basics of photography long time
     </div>
 </div>
 
-Big fan of medium format, especially the twin-lens reflex camera, and their huge focusing screen and the waist level shooting (Vivian Meyer anyone?). The Hasselblad is from my father, and it's quite intimidating to use.... On the other hand, some "cheap" russian mid format are quite fun to use. 
+Big fan of medium format, especially the twin-lens reflex camera, and their huge focusing screen and the waist level shooting (Vivian Maier anyone?). The Hasselblad is from my father, and it's quite intimidating to use.... On the other hand, some "cheap" russian mid format are quite fun to use. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
