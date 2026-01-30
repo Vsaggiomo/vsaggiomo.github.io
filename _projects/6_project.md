@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 description: Digital 
-img: assets/img/digital/digi5.jpg
+img: assets/img/digital/digi0.jpg
 importance: 2
 category: fun
 ---
