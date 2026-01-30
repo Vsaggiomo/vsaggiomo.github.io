@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-30'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -19,7 +19,7 @@ papers:
     year: '2025'
   AlppnJ4AAAAJ:1lhNe0rCu4AC:
     citations: 1
-    title: 'CoroNaspresso: A Cheap, Rapid and Simple Home Test for Nucleic Acid Amplification'
+    title: 'CoronaEspresso: A Cheap, Rapid and Simple Home Test for Nucleic Acid Amplification'
     year: '2021'
   AlppnJ4AAAAJ:1taIhTC69MYC:
     citations: 0
@@ -42,7 +42,7 @@ papers:
     title: Koffiecupje gebruikt voor snelle coronatest
     year: '2021'
   AlppnJ4AAAAJ:43bX7VzcjpAC:
-    citations: 10
+    citations: 11
     title: Stoichiometry alone can steer supramolecular systems on complex free energy surfaces with high selectivity
     year: '2021'
   AlppnJ4AAAAJ:48xauSegjOkC:
@@ -54,7 +54,7 @@ papers:
     title: Covalently bound monolayer patterns obtained by plasma etching on glass surfaces
     year: '2019'
   AlppnJ4AAAAJ:5icHVeHT4IsC:
-    citations: 140
+    citations: 141
     title: 'Reaction pathways in catechol/primary amine mixtures: a window on crosslinking chemistry'
     year: '2016'
   AlppnJ4AAAAJ:6_hjMsCP8ZoC:
@@ -87,7 +87,7 @@ papers:
     year: '2009'
   AlppnJ4AAAAJ:AHdEip9mkN0C:
     citations: 1
-    title: 'CRISPR-Clear: A Fieldable Detection Procedure for Potential CRISPR-Cas9 Gene Drive Based Bioweapons'
+    title: 'CRISPR-Clear: a fieldable detection procedure for potential CRISPR-Cas9 gene drive based bioweapons'
     year: '2019'
   AlppnJ4AAAAJ:ALROH1vI_8AC:
     citations: 0
@@ -106,7 +106,7 @@ papers:
     title: "Cyclodextrin-based complex coacervate core micelles with tuneable supramolecular host\u2013guest, metal-to-ligand and charge interactions"
     year: '2018'
   AlppnJ4AAAAJ:Aul-kAQHnToC:
-    citations: 342
+    citations: 345
     title: "Simple 3D printed scaffold\u2010removal method for the fabrication of intricate microfluidic devices"
     year: '2015'
   AlppnJ4AAAAJ:BJbdYPG6LGMC:
@@ -115,7 +115,7 @@ papers:
     year: Unknown Year
   AlppnJ4AAAAJ:Bg7qf7VwUHIC:
     citations: 0
-    title: Plastic Embedded Gold Nanoparticles as 3D Printing Dichroic Nanocomposite Material
+    title: Plastic embedded gold nanoparticles as 3D printing dichroic nanocomposite material
     year: '2018'
   AlppnJ4AAAAJ:Br1UauaknNIC:
     citations: 0
@@ -165,6 +165,10 @@ papers:
     citations: 10
     title: 'HistoEnder: A 3D printer-based histological slide autostainer that retains 3D printer functions'
     year: '2022'
+  AlppnJ4AAAAJ:MAUkC_7iAq8C:
+    citations: 4
+    title: "Step-by-step: A microfluidic (PDMS) staircase device for size sorting microparticles down to 25 \xB5m using a 3D-printed mold"
+    year: '2023'
   AlppnJ4AAAAJ:MhiOAD_qIWkC:
     citations: 2
     title: Fabrication of protein microgels with spherical and urchin-like shapes within water-in-water (W/W) emulsions
@@ -198,7 +202,7 @@ papers:
     title: Au 3+-Induced gel network formation of proteins
     year: '2021'
   AlppnJ4AAAAJ:UeHWp8X0CEIC:
-    citations: 125
+    citations: 126
     title: The role of lipophilicity in transmembrane anion transport
     year: '2012'
   AlppnJ4AAAAJ:W7OEmFMy1HYC:
@@ -234,11 +238,11 @@ papers:
     title: "2-Amino-4, 4\u03B1-dihydro-4\u03B1, 7-dimethyl-3H-phenoxazin-3-one as an unexpected product from reduction of 5-methyl-2-nitrophenol"
     year: '2015'
   AlppnJ4AAAAJ:_OXeSy2IsFwC:
-    citations: 56
+    citations: 57
     title: "Localized template\u2010driven functionalization of nanoparticles by dynamic combinatorial chemistry"
     year: '2015'
   AlppnJ4AAAAJ:artPoR2Yc-kC:
-    citations: 54
+    citations: 56
     title: Loop-mediated isothermal amplification (LAMP) shield for Arduino DNA detection
     year: '2018'
   AlppnJ4AAAAJ:buQ7SEKw-1sC:
@@ -286,7 +290,7 @@ papers:
     title: "COvalent monolayer patterns in Microfluidics by PLasma etching Open Technology\u2013COMPLOT"
     year: '2020'
   AlppnJ4AAAAJ:jgBuDB5drN8C:
-    citations: 84
+    citations: 85
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
@@ -298,7 +302,7 @@ papers:
     title: 'Hooked on mushrooms: Preparation and mechanics of a bioinspired soft probabilistic fastener'
     year: '2021'
   AlppnJ4AAAAJ:nRpfm8aw39MC:
-    citations: 46
+    citations: 47
     title: 'A 3D Printer in the lab: Not only a toy'
     year: '2022'
   AlppnJ4AAAAJ:otzGkya1bYkC:
@@ -330,7 +334,7 @@ papers:
     title: A simple low pressure drop microfluidic mixer based on suspensions
     year: Unknown Year
   AlppnJ4AAAAJ:tH6gc1N1XXoC:
-    citations: 102
+    citations: 103
     title: Pushing nuclear magnetic resonance sensitivity limits with microfluidics and photo-chemically induced dynamic nuclear polarization
     year: '2018'
   AlppnJ4AAAAJ:u-x6o8ySG0sC:
@@ -366,7 +370,7 @@ papers:
     title: Coronatest in een espressocupje
     year: '2021'
   AlppnJ4AAAAJ:zCSUwVk65WsC:
-    citations: 74
+    citations: 75
     title: Ender3 3D printer kit transformed into open, programmable syringe pump set
     year: '2021'
   AlppnJ4AAAAJ:zYLM7Y9cAGgC:
