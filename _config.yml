@@ -173,6 +173,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _posts/2024-12-04-photo-gallery.md
   - _pages/cv.md
   - _pages/repositories.md
   - _pages/profiles.md
