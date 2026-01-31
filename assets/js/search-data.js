@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
+  },{id: "nav-research",
+          title: "research",
           description: "My research is driven by a singular mission. The democratization of science through the intersection of NanoTechnology, Material Science, and Open Hardware. I believe that high-end scientific discovery should not be gated by expensive commercial equipment or specialized cleanroom facilities. By repurposing consumer technologies, such as 3D printers and low-cost microcontrollers, we develop &quot;Open Technologies&quot; that empower researchers to fabricate complex 3D microfluidics, automate entire lab workflows, and deploy sophisticated diagnostic sensors in remote, resource-limited settings. Whether it is transforming a cheap 3D printer into a precision laboratory robot or engineering sustainable, bio-based resins for additive manufacturing, my goal is to provide the global scientific community with the tools to innovate freely, transparently, and affordably. Here you can also find my &quot;fun&quot; projects and hobbies.",
           section: "Navigation",
           handler: () => {
@@ -83,16 +83,11 @@ ninja.data = [{
           description: "Digital",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-children-39-s-book",
-          title: 'Children&amp;#39;s book',
-          description: "Mostly Coloring Books",
+            },},{id: "projects-children-39-s-books",
+          title: 'Children&amp;#39;s Books',
+          description: "Mostly Coloring",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-random-hardware",
-          title: 'Random Hardware',
-          description: "Replication and Modification",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
