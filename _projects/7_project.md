@@ -2,7 +2,7 @@
 layout: page
 title: Children's Books
 description: Mostly Coloring  
-img: assets/img/coloring/color1.jpg
+img: assets/img/coloring/color0.jpg
 importance: 3
 category: fun
 ---
@@ -26,12 +26,36 @@ They are also available in all the other Amazon websites.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/digital/digi1.jpg" title="digital" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color2.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/digital/digi2.jpg" title="digital" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color3.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/digital/digi3.jpg" title="digital" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color4.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color5.jpg" title="coloring" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color6.jpg" title="coloring" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color7.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color8.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color1.jpg" title="coloring" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
