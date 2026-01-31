@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
 description: My research is driven by a singular mission. The democratization of science through the intersection of NanoTechnology, Material Science, and Open Hardware. I believe that high-end scientific discovery should not be gated by expensive commercial equipment or specialized cleanroom facilities. By repurposing consumer technologies, such as 3D printers and low-cost microcontrollers, we develop "Open Technologies" that empower researchers to fabricate complex 3D microfluidics, automate entire lab workflows, and deploy sophisticated diagnostic sensors in remote, resource-limited settings. Whether it is transforming a cheap 3D printer into a precision laboratory robot or engineering sustainable, bio-based resins for additive manufacturing, my goal is to provide the global scientific community with the tools to innovate freely, transparently, and affordably. Here you can also find my "fun" projects and hobbies. 
 

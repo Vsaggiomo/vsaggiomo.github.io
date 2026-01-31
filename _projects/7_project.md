@@ -1,80 +1,37 @@
 ---
 layout: page
-title: Children's book 
-description: Mostly Coloring Books 
+title: Children's Books
+description: Mostly Coloring  
 img: assets/img/6.jpg
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Sometimes, in my spare time, to relax, I like to design science related coloring books. The first one was a Scanning Electron Microscopy (SEM) coloring book, with real SEM micrographs to color. 
+During the summer of 2025 instead I drawn three books celebrating the Nobel Prizes in Chemistry. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+All of them are findable on Amazon, for example on Amazon . com : 
+[SEM coloring book](https://www.amazon.com/Electron-Microscopy-Coloring-Book-greyscale/dp/B09TN1SQ1N)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+[Chemistry Coloring Book: Nobels in Chemistry part I (1901-1948)](https://www.amazon.com/Chemistry-Coloring-Book-Hand-Drawn-Discoveries/dp/B0FRF39YS4)
+
+[Chemistry Coloring Book: Nobels in Chemistry part II (1949-1988)](https://www.amazon.com/Chemistry-Coloring-Book-Hand-Drawn-Discoveries/dp/B0FRSZNV16)
+
+[Chemistry Coloring Book: Nobels in Chemistry part III (1989-2025)](https://www.amazon.com/Chemistry-Coloring-Book-Hand-Drawn-Discoveries/dp/B0FWBYPZF2)
+
+And also in a single book: 
+[Chemistry Coloring Book: Nobels in Chemistry 1901-2025](https://www.amazon.com/Chemistry-coloring-book-Hand-Drawn-Discoveries/dp/B0FXM84CXW)
+
+They are also available in all the other Amazon websites. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/digital/digi1.jpg" title="digital" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/digital/digi2.jpg" title="digital" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/digital/digi3.jpg" title="digital" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
