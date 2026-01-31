@@ -2,7 +2,7 @@
 layout: page
 title: Children's Books
 description: Mostly Coloring  
-img: assets/img/6.jpg
+img: assets/img/coloring/color1.jpg
 importance: 3
 category: fun
 ---
