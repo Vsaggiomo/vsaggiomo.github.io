@@ -9,7 +9,7 @@ related_publications: true
 giscus_comments: false
 ---
 
-My interest in sensing focuses on moving sophisticated analytical capabilities out of the laboratory and into the hands of the people who need them. We develop decentralized, low-cost diagnostic tools that prioritize ease of use, sustainability, and field-readiness. By combining clever material science with open-source electronics, I aim to create sensing platforms that are as effective in a remote field site or a home kitchen as they are in a high-end research facility.
+My interest in sensing focuses on moving sophisticated analytical capabilities out of the laboratory and into the hands of the people who need them. We develop decentralized, low-cost diagnostic tools that prioritize ease of use, sustainability, and field-readiness. By combining clever material science with open-source electronics, we aim to create sensing platforms that are as effective in a home kitchen as they are in a high-end research facility.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,7 +26,7 @@ My interest in sensing focuses on moving sophisticated analytical capabilities o
 ### Molecular Diagnostics and DNA Detection
 
 
-I am particularly interested in isothermal nucleic acid amplification (LAMP) as a robust alternative to PCR for rapid pathogen detection. To bridge the gap between "bench and bedside," we have developed various non-instrumental and low-cost hardware solutions:
+I am particularly interested in isothermal nucleic acid amplification (LAMP) as a robust alternative to PCR for rapid pathogen detection. To bridge the gap between "bench and on-site," we have developed various non-instrumental and low-cost hardware solutions:
 
 The T-Cup {% cite velders2022t %}: A "non-instrument" device for SARS-CoV-2 detection that repurposes aluminum coffee capsules and phase-change materials (PCM) to maintain a steady 65 °C. It is scalable, sustainable, and requires only boiling water to run.
 
@@ -48,7 +48,7 @@ Beyond molecular markers, I am interested in developing tools to detect and iden
 
 ESPressoscope {% cite li2024espressoscope %}: A modular, ESP32-based digital microscopy platform. Designed for in-situ monitoring, this low-cost "design pattern" allows researchers to build mission-specific microscopes, such as the Anglerfish for underwater ecological observation or time-lapse systems for incubator cell cultures.
 
-Staircase Microfluidics {% cite staircase2023 %}: To simplify the detection of microparticles, we pioneered a "Z-axis" approach to microfluidics. By using the layer resolution of consumer 3D printers to create staircase structures, we can size-sort particles (parasites, zooplankton, microplastics) down to 25 µm without the need for high-resolution lithography.
+Staircase Microfluidics {% cite staircase2023 %}: To simplify the detection of microparticles, we pioneered a "stepsize" approach to microfluidics. By using the layer resolution of consumer 3D printers to create staircase structures, we can size-sort particles (parasites, zooplankton, microplastics) down to 25 µm without the need for high-resolution lithography.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

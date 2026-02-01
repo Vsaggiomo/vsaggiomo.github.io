@@ -33,19 +33,19 @@ latest_posts:
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+### Me
+
 Chemist by training and a "maker" by heart, my work lives at the intersection of chemistry, material science, and DIY technology.
 
 My mission is the democratization of science. I believe that the high cost and the closeness of scientific instrumentation should not be a barrier to discovery. To solve this, I develop "Open Technologies", for example by repurposing consumer electronics like 3D printers and microcontrollers into sophisticated laboratory robots and diagnostic tools. My research proves that cutting-edge science can be affordable, open, transparent, and reproducible.
 
-Beyond the lab, I am a passionate educator and advocate for Open Science. Whether I am teaching molecular life science students how to code Arduinos for "Experiments@Home" or demonstrating the ancient nanotech of the Lycurgus Cup, sometimes at MakerFaires, I strive to inspire a new generation of scientists to move away from "black-box" instruments and toward a creative, hands-on understanding of the tools they use.
+Beyond the lab, I am a passionate educator and advocate for Open Science. Whether I am teaching molecular life science students how to code microcontrollers for "Experiments@Home" or demonstrating the ancient nanotech of the Lycurgus Cup, sometimes at MakerFaires, I strive to inspire a new generation of scientists to move away from "black-box" instruments and toward a creative, hands-on understanding of the tools they use.
 
+### The Team
 
-*Let’s Collaborate*
+This is a personal website, however behind every "Lab Hack" and every publication is a dedicated team of brilliant minds. My research is the result of deep collaboration, and I am immensely grateful to my current and former (PhD) students, postdocs, and collaborators. Their creativity, persistence, and willingness to "fail forward" are what turn weird ideas into scientific reality. They are the true makers in the lab.
+Many thanks to my colleagues at the Department of BioNanoTechnology (WUR). Being part of such a multidisciplinary and supportive environment provides the perfect ecosystem for exploring the intersection of chemistry and technology. The innovations featured on this personal website, from 3D-printed microfluidics to sustainable resins, are a testament to the collective expertise and shared vision of our department.
+
+### Let’s Collaborate
 
 I am a firm believer that the most impactful science happens at the intersection of disciplines. I am always looking for partners: academic, industrial, or citizen scientists, who share a passion for Open Innovation. Whether you are looking to co-develop low-cost lab automation, require custom 3D microfluidic architectures, or are interested in testing our sustainable bio-resins, my lab is open for collaboration. I am particularly interested in projects that aim to democratize scientific tools for use in low-resource settings.
-
-
-*The Team*
-
-This is a personal website, however behind every "Lab Hack" and every publication is a dedicated team of brilliant minds. My research is the result of deep collaboration, and I am immensely grateful to my current and former PhD students. Their creativity, persistence, and willingness to "fail forward" are what turn open-source ideas into scientific reality. They are the true makers in the lab.
-Many thanks to my colleagues at the Department of BioNanoTechnology (WUR). Being part of such a multidisciplinary and supportive environment provides the perfect ecosystem for exploring the intersection of chemistry and technology. The innovations featured on this personal website, from 3D-printed microfluidics to sustainable resins, are a testament to the collective expertise and shared vision of our department.
