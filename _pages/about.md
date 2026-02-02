@@ -44,8 +44,16 @@ Beyond the lab, I am a passionate educator and advocate for Open Science. Whethe
 ### The Team
 
 This is a personal website, however behind every "Lab Hack" and every publication is a dedicated team of brilliant minds. My research is the result of deep collaboration, and I am immensely grateful to my current and former (PhD) students, postdocs, and collaborators. Their creativity, persistence, and willingness to "fail forward" are what turn weird ideas into scientific reality. They are the true makers in the lab.
-Many thanks to my colleagues at the Department of BioNanoTechnology (WUR). Being part of such a multidisciplinary and supportive environment provides the perfect ecosystem for exploring the intersection of chemistry and technology. The innovations featured on this personal website, from 3D-printed microfluidics to sustainable resins, are a testament to the collective expertise and shared vision of our department.
+Many thanks to my colleagues at the  <a href='https://www.wur.nl/en/chair-groups/biomolecular-sciences/bionanotechnology'>Department of BioNanoTechnology (WUR)</a>. Being part of such a multidisciplinary and supportive environment provides the perfect ecosystem for exploring the intersection of chemistry and technology. The innovations featured on this personal website, from 3D-printed microfluidics to sustainable resins, are a testament to the collective expertise and shared vision of our department.
 
 ### Let’s Collaborate
 
 I am a firm believer that the most impactful science happens at the intersection of disciplines. I am always looking for partners: academic, industrial, or citizen scientists, who share a passion for Open Innovation. Whether you are looking to co-develop low-cost lab automation, require custom 3D microfluidic architectures, or are interested in testing our sustainable bio-resins, my lab is open for collaboration. I am particularly interested in projects that aim to democratize scientific tools for use in low-resource settings.
+
+### Resources
+
+you can find most of my progamming bits on my GitHub <a href='https://github.com/Vsaggiomo'>Github</a>
+
+most of my 3D designs on <a href='https://www.printables.com/@vsaggiomo'>Printables</a>
+
+and most of my videos on <a href='https://www.youtube.com/user/vsaggiomo'>my youtube channel</a>
