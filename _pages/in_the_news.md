@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /inthenews/
-title: In the News
+title: in the news
 description: Who, What, Where
 nav: true
 nav_order: 4

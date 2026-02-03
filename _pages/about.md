@@ -52,7 +52,7 @@ I am a firm believer that the most impactful science happens at the intersection
 
 ### Resources
 
-you can find most of my progamming bits on my GitHub <a href='https://github.com/Vsaggiomo'>Github</a>
+you can find most of my progamming bits on my <a href='https://github.com/Vsaggiomo'>Github</a>
 
 most of my 3D designs on <a href='https://www.printables.com/@vsaggiomo'>Printables</a>
 
