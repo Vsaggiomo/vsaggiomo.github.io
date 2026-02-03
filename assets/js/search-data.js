@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-in-the-news",
-          title: "In the News",
+          title: "in the news",
           description: "Who, What, Where",
           section: "Navigation",
           handler: () => {
