@@ -18,7 +18,7 @@ Ender 3 Syringe Pump {% cite baas2021ender3 %}: By adding just three off-the-she
 HistoEnder {% cite ponzetti2022histoender %}: An automated microscope slide stainer designed to save thousands of working hours in histology and pathology labs. It is modular, reversible, and costs less than €200, making automation accessible for labs that cannot justify the €2,000–€10,000 price tag of traditional stainers.
 
 
-EnderScope {% cite burke2024enderscope %}: By replacing the hotend with an optics module, the Ender 3 is transformed into an automated scanning microscope. Capable of both reflected light and fluorescence imaging, it can scan large areas (>20 × 20 cm) to detect and count microplastics in environmental samples.
+EnderScope (Collaboration with Mark Pickering, Dublin, Ireland) {% cite burke2024enderscope %}: By replacing the hotend with an optics module, the Ender 3 is transformed into an automated scanning microscope. Capable of both reflected light and fluorescence imaging, it can scan large areas (>20 × 20 cm) to detect and count microplastics in environmental samples.
 
 
 And some Reviews / Perspectives: 
@@ -31,7 +31,7 @@ Hacking 3D printers as laboratory robots {% cite baas2025hacking %}
 
 Creating an open-source hardware ecosystem for research and sustainable development (white paper) {% cite faez2023creating %} 
 
-And my <a href='https://www.youtube.com/watch?v=tB_HeqnonNM '>TEDx "Open Science for Inclusive Science"</a> 
+And my TEDx <a href='https://www.youtube.com/watch?v=tB_HeqnonNM '>"Open Science for Inclusive Science"</a> 
 
 
 <div class="row">

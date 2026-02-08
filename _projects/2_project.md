@@ -46,7 +46,7 @@ Arduino LAMP Shields {% cite velders2018loop %}: For more automated needs, I des
 
 Beyond molecular markers, I am interested in developing tools to detect and identify micro-entities—from parasite eggs to microplastics—using accessible hardware and innovative fabrication:
 
-ESPressoscope {% cite li2024espressoscope %}: A modular, ESP32-based digital microscopy platform. Designed for in-situ monitoring, this low-cost "design pattern" allows researchers to build mission-specific microscopes, such as the Anglerfish for underwater ecological observation or time-lapse systems for incubator cell cultures.
+ESPressoscope (collaboration with Benedict Diederich, Jena, Germany, and Manu Prakash, Stanford) {% cite li2024espressoscope %}: A modular, ESP32-based digital microscopy platform. Designed for in-situ monitoring, this low-cost "design pattern" allows researchers to build mission-specific microscopes, such as the Anglerfish for underwater ecological observation or time-lapse systems for incubator cell cultures.
 
 Staircase Microfluidics {% cite staircase2023 %}: To simplify the detection of microparticles, we pioneered a "stepsize" approach to microfluidics. By using the layer resolution of consumer 3D printers to create staircase structures, we can size-sort particles (parasites, zooplankton, microplastics) down to 25 µm without the need for high-resolution lithography.
 

@@ -22,7 +22,11 @@ All of them are findable on Amazon, for example on Amazon . com :
 And also in a single book: 
 [Chemistry Coloring Book: Nobels in Chemistry 1901-2025](https://www.amazon.com/Chemistry-coloring-book-Hand-Drawn-Discoveries/dp/B0FXM84CXW)
 
-They are also available in all the other Amazon websites. 
+For obvious reasons (just open any newspaper), I'm cutting all my Amazon ties. Now you can find my books on Lulu, a publishing companyt which integrates sustainability into its core business model to reduce waste and environmental impact.
+
+Although i still have to receive the author copies to check their quality, you cna find them [here](https://www.lulu.com/search?sortBy=RELEVANCE&page=1&q=saggiomo&adult_audience_rating=00)
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,7 +51,7 @@ They are also available in all the other Amazon websites.
         {% include figure.liquid loading="eager" path="assets/img/coloring/color6.jpg" title="coloring" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/coloring/color7.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color1.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -56,6 +60,6 @@ They are also available in all the other Amazon websites.
         {% include figure.liquid loading="eager" path="assets/img/coloring/color8.jpeg" title="coloring" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/coloring/color1.jpg" title="coloring" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/coloring/color7.jpg" title="coloring" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

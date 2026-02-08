@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: My research is driven by a singular mission. The democratization of science through the intersection of Technology, Chemistry, and Open Hardware. I believe that high-end scientific discovery should not be gated by expensive commercial equipment or specialized facilities. By repurposing consumer technologies, such as 3D printers and low-cost microcontrollers, we develop "Open Technologies" that empower researchers to fabricate complex 3D microfluidics, automate entire lab workflows, and deploy sophisticated diagnostic sensors in remote, resource-limited settings. My goal is to provide the global scientific community with the tools to innovate freely, transparently, and affordably. Here you can also find my "fun" projects and hobbies. 
+description: My research is driven by a singular mission. The democratization of science through the intersection of Technology, Chemistry, and Open Science. We develop "Open Technologies" that empower researchers to fabricate complex 3D microfluidics, automate entire lab workflows, and deploy sophisticated diagnostic sensors in remote, resource-limited settings. In this section, you can also find my "fun" projects and hobbies. 
 
 nav: true
 nav_order: 1
