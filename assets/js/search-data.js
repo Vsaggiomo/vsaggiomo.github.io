@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-pation",
+        },{id: "post-bridging-the-lab-digital-divide",
+        
+          title: "Bridging the Lab Digital Divide",
+        
+        description: "Why We Must Democratize Self-Driving Labs",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SDL/";
+          
+        },
+      },{id: "post-pation",
         
           title: "....pation",
         
@@ -52,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/1st-posr/";
+            window.location.href = "/blog/2026/1st-posr/";
           
         },
       },{id: "books-the-godfather",
