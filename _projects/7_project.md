@@ -22,9 +22,17 @@ All of them are findable on Amazon, for example on Amazon . com :
 And also in a single book: 
 [Chemistry Coloring Book: Nobels in Chemistry 1901-2025](https://www.amazon.com/Chemistry-coloring-book-Hand-Drawn-Discoveries/dp/B0FXM84CXW)
 
-For obvious reasons (just open any newspaper), I'm cutting all my Amazon ties. Now you can find my books on Lulu, a publishing companyt which integrates sustainability into its core business model to reduce waste and environmental impact.
+For obvious reasons (just open any newspaper), I'm cutting all my Amazon ties. Now you can find my books on **Lulu**, a publishing companyt which integrates sustainability into its core business model to reduce waste and environmental impact.
 
-Although i still have to receive the author copies to check their quality, you cna find them [here](https://www.lulu.com/search?sortBy=RELEVANCE&page=1&q=saggiomo&adult_audience_rating=00)
+You can find them [here](https://www.lulu.com/search?sortBy=RELEVANCE&page=1&q=saggiomo&adult_audience_rating=00)
+
+
+**And also, you can download them for free:**
+
+[Electron Microscopy Coloring Book](assets/pdf/Electron_Microscopy_Coloring_Book_compressed.pdf) 
+
+
+[Nobels in Chemistry Coloring Book](assets/pdf/assets/pdf/Electron_Microscopy_Coloring_Book_compressed.pdf) 
 
 
 
