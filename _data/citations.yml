@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-04-01'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
-    citations: 0
+    citations: 1
     title: Easy, on-site applicable DNA extraction in combination with LAMP analysis for the early detection of DNA derived from processed animal proteins in poultry feed
     year: '2025'
+  AlppnJ4AAAAJ:-jrNzM816MMC:
+    citations: 0
+    title: Rapid and cost-effective prototyping of acoustofluidic chips using 3D printing, laser cutting, and CNC milling
+    year: '2026'
   AlppnJ4AAAAJ:-mN3Mh-tlDkC:
     citations: 0
     title: Nespresso Coffee Capsules May Someday Be Recycled As COVID-19 Tests
     year: Unknown Year
   AlppnJ4AAAAJ:0CzhzZyukY4C:
-    citations: 39
+    citations: 41
     title: Gold and silver dichroic nanocomposite in the quest for 3D printing the Lycurgus cup
     year: '2020'
   AlppnJ4AAAAJ:1Ye0OR6EYb4C:
@@ -42,7 +46,7 @@ papers:
     title: Koffiecupje gebruikt voor snelle coronatest
     year: Unknown Year
   AlppnJ4AAAAJ:43bX7VzcjpAC:
-    citations: 11
+    citations: 12
     title: Stoichiometry alone can steer supramolecular systems on complex free energy surfaces with high selectivity
     year: '2021'
   AlppnJ4AAAAJ:48xauSegjOkC:
@@ -54,11 +58,11 @@ papers:
     title: Covalently bound monolayer patterns obtained by plasma etching on glass surfaces
     year: '2019'
   AlppnJ4AAAAJ:5icHVeHT4IsC:
-    citations: 147
+    citations: 148
     title: 'Reaction pathways in catechol/primary amine mixtures: a window on crosslinking chemistry'
     year: '2016'
   AlppnJ4AAAAJ:6_hjMsCP8ZoC:
-    citations: 0
+    citations: 1
     title: Label-free processing of microalgal biomass for high-throughput bioprocess development using external fields and microfluidics
     year: '2025'
   AlppnJ4AAAAJ:6bLC7aUMtPcC:
@@ -70,7 +74,7 @@ papers:
     title: Plasma etching for fabricating microfluidic devices with patterned monolayers
     year: '2019'
   AlppnJ4AAAAJ:7BrZ7Jt4UNcC:
-    citations: 3
+    citations: 4
     title: Hollow protein microparticles formed through cross-linking by an Au 3+ initiated redox reaction
     year: '2022'
   AlppnJ4AAAAJ:7Hz3ACDFbsoC:
@@ -78,7 +82,7 @@ papers:
     title: Preparation of Au-protein microparticles with a tunable core density
     year: '2021'
   AlppnJ4AAAAJ:7wO8s98CvbsC:
-    citations: 4
+    citations: 5
     title: Microfluidic-driven short peptide hydrogels with optical waveguiding properties
     year: '2024'
   AlppnJ4AAAAJ:9yKSN-GCB0IC:
@@ -106,7 +110,7 @@ papers:
     title: "Cyclodextrin-based complex coacervate core micelles with tuneable supramolecular host\u2013guest, metal-to-ligand and charge interactions"
     year: '2018'
   AlppnJ4AAAAJ:Aul-kAQHnToC:
-    citations: 348
+    citations: 351
     title: "Simple 3D printed scaffold\u2010removal method for the fabrication of intricate microfluidic devices"
     year: '2015'
   AlppnJ4AAAAJ:BJbdYPG6LGMC:
@@ -122,7 +126,7 @@ papers:
     title: The open science story of Vittorio Saggiomo
     year: Unknown Year
   AlppnJ4AAAAJ:CaZNVDsoPx4C:
-    citations: 18
+    citations: 19
     title: All-aqueous emulsions as miniaturized chemical reactors in the food and bioprocess technology
     year: '2020'
   AlppnJ4AAAAJ:CdxZDUztZiMC:
@@ -134,7 +138,7 @@ papers:
     title: Microalgae as a source for Stereolithography (SLA) 3D printing resin
     year: '2025'
   AlppnJ4AAAAJ:F1b5ZUV5XREC:
-    citations: 41
+    citations: 42
     title: Gold nanoparticles embedded in a polymer as a 3D-printable dichroic nanocomposite material
     year: '2019'
   AlppnJ4AAAAJ:FiytvqdAVhgC:
@@ -158,7 +162,7 @@ papers:
     title: Easy, On-Site Applicable DNA Extraction in Combination with Lamp Analysis for the Early Detection of DNA Derived from Processed Animal Proteins in Poultry Feed
     year: Unknown Year
   AlppnJ4AAAAJ:LPtt_HFRSbwC:
-    citations: 5
+    citations: 6
     title: 'ESPressoscope: A small and powerful approach for in situ microscopy'
     year: '2024'
   AlppnJ4AAAAJ:LdasjJ6CEcoC:
@@ -170,7 +174,7 @@ papers:
     title: "Step-by-step: A microfluidic (PDMS) staircase device for size sorting microparticles down to 25 \xB5m using a 3D-printed mold"
     year: '2023'
   AlppnJ4AAAAJ:MhiOAD_qIWkC:
-    citations: 2
+    citations: 4
     title: Fabrication of protein microgels with spherical and urchin-like shapes within water-in-water (W/W) emulsions
     year: '2023'
   AlppnJ4AAAAJ:MpfHP-DdYjUC:
@@ -190,9 +194,17 @@ papers:
     title: Controlling Supramolecular Plasticity through Stoichiometry
     year: '2019'
   AlppnJ4AAAAJ:PYBJJbyH-FwC:
-    citations: 8
+    citations: 10
     title: 'Next step towards point-of-care molecular diagnosis of female genital schistosomiasis (FGS): evaluation of an instrument-free LAMP procedure'
     year: '2024'
+  AlppnJ4AAAAJ:PyEswDtIyv0C:
+    citations: 0
+    title: 'Tiny lipoprotein sponges: How hen egg yolk high-density lipoprotein microgels hold and release hydrophobic molecules'
+    year: '2026'
+  AlppnJ4AAAAJ:QyXJ3EUuO1IC:
+    citations: 0
+    title: "Fabrication of Sub-20 \xB5m Microfluidic Channels Using Low-Cost FDM 3D-Printed Molds-A Lab-on-Cheap Approach"
+    year: '2026'
   AlppnJ4AAAAJ:SjuI4pbJlxcC:
     citations: 0
     title: Pushing Nuclear Magnetic Resonance sensitivity limits with home-built microfluidic chips and photo-CIDNP
@@ -202,11 +214,11 @@ papers:
     title: Ion transport across membranes mediated by a dynamic combinatorial library
     year: '2010'
   AlppnJ4AAAAJ:U4n9YNQMCAIC:
-    citations: 6
+    citations: 7
     title: Au 3+-Induced gel network formation of proteins
     year: '2021'
   AlppnJ4AAAAJ:UeHWp8X0CEIC:
-    citations: 125
+    citations: 126
     title: The role of lipophilicity in transmembrane anion transport
     year: '2012'
   AlppnJ4AAAAJ:W7OEmFMy1HYC:
@@ -270,7 +282,7 @@ papers:
     title: A simple low pressure drop suspension-based microfluidic mixer
     year: '2015'
   AlppnJ4AAAAJ:gKiMpY-AVTkC:
-    citations: 38
+    citations: 40
     title: Hydrogel actuators as responsive instruments for cheap open technology (HARICOT)
     year: '2017'
   AlppnJ4AAAAJ:hsZV8lGYWTMC:
@@ -286,11 +298,11 @@ papers:
     title: Variable pathlength cell for internal data validation in computer vision
     year: Unknown Year
   AlppnJ4AAAAJ:jL-93Qbq4QoC:
-    citations: 12
+    citations: 13
     title: "COvalent monolayer patterns in Microfluidics by PLasma etching Open Technology\u2013COMPLOT"
     year: '2020'
   AlppnJ4AAAAJ:jgBuDB5drN8C:
-    citations: 85
+    citations: 88
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
@@ -302,7 +314,7 @@ papers:
     title: 'Hooked on mushrooms: Preparation and mechanics of a bioinspired soft probabilistic fastener'
     year: '2021'
   AlppnJ4AAAAJ:nRpfm8aw39MC:
-    citations: 47
+    citations: 51
     title: 'A 3D Printer in the lab: Not only a toy'
     year: '2022'
   AlppnJ4AAAAJ:otzGkya1bYkC:
@@ -334,7 +346,7 @@ papers:
     title: A simple low pressure drop microfluidic mixer based on suspensions
     year: Unknown Year
   AlppnJ4AAAAJ:tH6gc1N1XXoC:
-    citations: 104
+    citations: 105
     title: Pushing nuclear magnetic resonance sensitivity limits with microfluidics and photo-chemically induced dynamic nuclear polarization
     year: '2018'
   AlppnJ4AAAAJ:u-x6o8ySG0sC:
@@ -354,7 +366,7 @@ papers:
     title: Experiments@ home
     year: '2021'
   AlppnJ4AAAAJ:vDZJ-YLwNdEC:
-    citations: 0
+    citations: 1
     title: Method of manufacturing a microfluidic device
     year: '2021'
   AlppnJ4AAAAJ:wKETBy42zhYC:
@@ -370,7 +382,7 @@ papers:
     title: Coronatest in een espressocupje
     year: Unknown Year
   AlppnJ4AAAAJ:zCSUwVk65WsC:
-    citations: 75
+    citations: 77
     title: Ender3 3D printer kit transformed into open, programmable syringe pump set
     year: '2021'
   AlppnJ4AAAAJ:zYLM7Y9cAGgC:
