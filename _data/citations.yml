@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-08'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -20,7 +20,7 @@ papers:
   AlppnJ4AAAAJ:1Ye0OR6EYb4C:
     citations: 0
     title: Hacking 3D printers as laboratory robots
-    year: '2025'
+    year: '2026'
   AlppnJ4AAAAJ:1lhNe0rCu4AC:
     citations: 1
     title: 'CoronaEspresso: A Cheap, Rapid and Simple Home Test for Nucleic Acid Amplification'
@@ -166,7 +166,7 @@ papers:
     title: 'ESPressoscope: A small and powerful approach for in situ microscopy'
     year: '2024'
   AlppnJ4AAAAJ:LdasjJ6CEcoC:
-    citations: 10
+    citations: 11
     title: 'HistoEnder: a 3D printer-based histological slide autostainer that retains 3D printer functions'
     year: '2022'
   AlppnJ4AAAAJ:MAUkC_7iAq8C:
@@ -310,7 +310,7 @@ papers:
     title: Highly contractile 3D tissue engineered skeletal muscles from human iPSCs reveal similarities with primary myoblast-derived tissues
     year: '2023'
   AlppnJ4AAAAJ:lgwcVrK6X84C:
-    citations: 17
+    citations: 18
     title: 'Hooked on mushrooms: Preparation and mechanics of a bioinspired soft probabilistic fastener'
     year: '2021'
   AlppnJ4AAAAJ:nRpfm8aw39MC:
@@ -346,7 +346,7 @@ papers:
     title: A simple low pressure drop microfluidic mixer based on suspensions
     year: Unknown Year
   AlppnJ4AAAAJ:tH6gc1N1XXoC:
-    citations: 105
+    citations: 106
     title: Pushing nuclear magnetic resonance sensitivity limits with microfluidics and photo-chemically induced dynamic nuclear polarization
     year: '2018'
   AlppnJ4AAAAJ:u-x6o8ySG0sC:
@@ -382,7 +382,7 @@ papers:
     title: Coronatest in een espressocupje
     year: Unknown Year
   AlppnJ4AAAAJ:zCSUwVk65WsC:
-    citations: 77
+    citations: 78
     title: Ender3 3D printer kit transformed into open, programmable syringe pump set
     year: '2021'
   AlppnJ4AAAAJ:zYLM7Y9cAGgC:
