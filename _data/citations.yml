@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-05-25'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Nespresso Coffee Capsules May Someday Be Recycled As COVID-19 Tests
     year: Unknown Year
   AlppnJ4AAAAJ:0CzhzZyukY4C:
-    citations: 41
+    citations: 43
     title: Gold and silver dichroic nanocomposite in the quest for 3D printing the Lycurgus cup
     year: '2020'
   AlppnJ4AAAAJ:1Ye0OR6EYb4C:
@@ -46,11 +46,11 @@ papers:
     title: Koffiecupje gebruikt voor snelle coronatest
     year: Unknown Year
   AlppnJ4AAAAJ:43bX7VzcjpAC:
-    citations: 12
+    citations: 13
     title: Stoichiometry alone can steer supramolecular systems on complex free energy surfaces with high selectivity
     year: '2021'
   AlppnJ4AAAAJ:48xauSegjOkC:
-    citations: 49
+    citations: 51
     title: Coupling 3D printing and novel replica molding for in house fabrication of skeletal muscle tissue engineering devices
     year: '2020'
   AlppnJ4AAAAJ:4X0JR2_MtJMC:
@@ -58,7 +58,7 @@ papers:
     title: Covalently bound monolayer patterns obtained by plasma etching on glass surfaces
     year: '2019'
   AlppnJ4AAAAJ:5icHVeHT4IsC:
-    citations: 148
+    citations: 150
     title: 'Reaction pathways in catechol/primary amine mixtures: a window on crosslinking chemistry'
     year: '2016'
   AlppnJ4AAAAJ:6_hjMsCP8ZoC:
@@ -110,7 +110,7 @@ papers:
     title: "Cyclodextrin-based complex coacervate core micelles with tuneable supramolecular host\u2013guest, metal-to-ligand and charge interactions"
     year: '2018'
   AlppnJ4AAAAJ:Aul-kAQHnToC:
-    citations: 351
+    citations: 354
     title: "Simple 3D printed scaffold\u2010removal method for the fabrication of intricate microfluidic devices"
     year: '2015'
   AlppnJ4AAAAJ:BJbdYPG6LGMC:
@@ -154,7 +154,7 @@ papers:
     title: Binding of group 15 and group 16 oxides by a concave host containing an isophthalamide unit
     year: '2012'
   AlppnJ4AAAAJ:KaMxkj08jr0C:
-    citations: 1
+    citations: 2
     title: 3D printed cigarette filter for eDNA collection
     year: '2025'
   AlppnJ4AAAAJ:L1USKYWJimsC:
@@ -162,7 +162,7 @@ papers:
     title: Easy, On-Site Applicable DNA Extraction in Combination with Lamp Analysis for the Early Detection of DNA Derived from Processed Animal Proteins in Poultry Feed
     year: Unknown Year
   AlppnJ4AAAAJ:LPtt_HFRSbwC:
-    citations: 6
+    citations: 7
     title: 'ESPressoscope: A small and powerful approach for in situ microscopy'
     year: '2024'
   AlppnJ4AAAAJ:LdasjJ6CEcoC:
@@ -181,6 +181,10 @@ papers:
     citations: 0
     title: Method of manufacturing microdevices for lab-on-chip applications
     year: '2021'
+  AlppnJ4AAAAJ:NDuN12AVoxsC:
+    citations: 0
+    title: Advancing optical imaging systems with digital fabrication
+    year: '2026'
   AlppnJ4AAAAJ:NyGDZy8z5eUC:
     citations: 13
     title: Oxidant-responsive ferrocene-based cyclodextrin complex coacervate core micelles
@@ -194,7 +198,7 @@ papers:
     title: Controlling Supramolecular Plasticity through Stoichiometry
     year: '2019'
   AlppnJ4AAAAJ:PYBJJbyH-FwC:
-    citations: 10
+    citations: 12
     title: 'Next step towards point-of-care molecular diagnosis of female genital schistosomiasis (FGS): evaluation of an instrument-free LAMP procedure'
     year: '2024'
   AlppnJ4AAAAJ:PyEswDtIyv0C:
@@ -218,7 +222,7 @@ papers:
     title: Au 3+-Induced gel network formation of proteins
     year: '2021'
   AlppnJ4AAAAJ:UeHWp8X0CEIC:
-    citations: 126
+    citations: 128
     title: The role of lipophilicity in transmembrane anion transport
     year: '2012'
   AlppnJ4AAAAJ:W7OEmFMy1HYC:
@@ -230,7 +234,7 @@ papers:
     title: 'ESPressoscope: a small and powerful platform for in situ microscopy'
     year: '2024'
   AlppnJ4AAAAJ:WF5omc3nYNoC:
-    citations: 55
+    citations: 56
     title: A'Dial-A-Receptor'Dynamic Combinatorial Library.
     year: '2013'
   AlppnJ4AAAAJ:WHdLCjDvYFkC:
@@ -254,19 +258,19 @@ papers:
     title: "2-Amino-4, 4\u03B1-dihydro-4\u03B1, 7-dimethyl-3H-phenoxazin-3-one as an unexpected product from reduction of 5-methyl-2-nitrophenol"
     year: '2015'
   AlppnJ4AAAAJ:_OXeSy2IsFwC:
-    citations: 57
+    citations: 58
     title: "Localized template\u2010driven functionalization of nanoparticles by dynamic combinatorial chemistry"
     year: '2015'
   AlppnJ4AAAAJ:artPoR2Yc-kC:
-    citations: 56
+    citations: 59
     title: Loop-mediated isothermal amplification (LAMP) shield for Arduino DNA detection
     year: '2018'
   AlppnJ4AAAAJ:buQ7SEKw-1sC:
-    citations: 8
+    citations: 9
     title: "Assembly, Disassembly and Reassembly of Complex Coacervate Core Micelles with Redox\u2010Responsive Supramolecular Cross\u2010Linkers"
     year: '2020'
   AlppnJ4AAAAJ:cK4Rrx0J3m0C:
-    citations: 18
+    citations: 21
     title: "T\u2010Cup: A Cheap, Rapid, and Simple Home Device for Isothermal Nucleic Acid Amplification"
     year: '2022'
   AlppnJ4AAAAJ:d1gkVwhDpl0C:
@@ -302,11 +306,11 @@ papers:
     title: "COvalent monolayer patterns in Microfluidics by PLasma etching Open Technology\u2013COMPLOT"
     year: '2020'
   AlppnJ4AAAAJ:jgBuDB5drN8C:
-    citations: 88
+    citations: 93
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
-    citations: 35
+    citations: 40
     title: Highly contractile 3D tissue engineered skeletal muscles from human iPSCs reveal similarities with primary myoblast-derived tissues
     year: '2023'
   AlppnJ4AAAAJ:lgwcVrK6X84C:
@@ -314,15 +318,15 @@ papers:
     title: 'Hooked on mushrooms: Preparation and mechanics of a bioinspired soft probabilistic fastener'
     year: '2021'
   AlppnJ4AAAAJ:nRpfm8aw39MC:
-    citations: 51
+    citations: 52
     title: 'A 3D Printer in the lab: Not only a toy'
     year: '2022'
   AlppnJ4AAAAJ:otzGkya1bYkC:
-    citations: 28
+    citations: 29
     title: Syntheses of gold and silver dichroic nanoparticles; looking at the Lycurgus cup colors
     year: '2021'
   AlppnJ4AAAAJ:owLR8QvbtFgC:
-    citations: 14
+    citations: 15
     title: 'EnderScope: a low-cost 3D printer-based scanning microscope for microplastic detection'
     year: '2024'
   AlppnJ4AAAAJ:prdVHNxh-e8C:
@@ -346,7 +350,7 @@ papers:
     title: A simple low pressure drop microfluidic mixer based on suspensions
     year: Unknown Year
   AlppnJ4AAAAJ:tH6gc1N1XXoC:
-    citations: 106
+    citations: 109
     title: Pushing nuclear magnetic resonance sensitivity limits with microfluidics and photo-chemically induced dynamic nuclear polarization
     year: '2018'
   AlppnJ4AAAAJ:u-x6o8ySG0sC:
@@ -358,7 +362,7 @@ papers:
     title: "On the formation of imines in water\u2014a comparison"
     year: '2009'
   AlppnJ4AAAAJ:uDGL6kOW6j0C:
-    citations: 10
+    citations: 12
     title: 3D Printed devices for catalytic systems
     year: '2020'
   AlppnJ4AAAAJ:ubry08Y2EpUC:
@@ -374,7 +378,7 @@ papers:
     title: 'Preventing Cannibalism: Early Detection of DNA Derived from Processed Animal Proteins in Poultry Feed'
     year: Unknown Year
   AlppnJ4AAAAJ:wMgC3FpKEyYC:
-    citations: 9
+    citations: 10
     title: Response of metal-coordination-based polyelectrolyte complex micelles to added ligands and metals
     year: '2020'
   AlppnJ4AAAAJ:yxmsSjX2EkcC:
@@ -382,7 +386,7 @@ papers:
     title: Coronatest in een espressocupje
     year: Unknown Year
   AlppnJ4AAAAJ:zCSUwVk65WsC:
-    citations: 78
+    citations: 80
     title: Ender3 3D printer kit transformed into open, programmable syringe pump set
     year: '2021'
   AlppnJ4AAAAJ:zYLM7Y9cAGgC:
