@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-24'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -14,11 +14,11 @@ papers:
     title: Nespresso Coffee Capsules May Someday Be Recycled As COVID-19 Tests
     year: Unknown Year
   AlppnJ4AAAAJ:0CzhzZyukY4C:
-    citations: 44
+    citations: 43
     title: Gold and silver dichroic nanocomposite in the quest for 3D printing the Lycurgus cup
     year: '2020'
   AlppnJ4AAAAJ:1Ye0OR6EYb4C:
-    citations: 1
+    citations: 2
     title: Hacking 3D printers as laboratory robots
     year: '2026'
   AlppnJ4AAAAJ:1lhNe0rCu4AC:
@@ -75,7 +75,7 @@ papers:
     year: '2019'
   AlppnJ4AAAAJ:7BrZ7Jt4UNcC:
     citations: 5
-    title: Hollow protein microparticles formed through cross-linking by an Au 3+ initiated redox reaction
+    title: Hollow protein microparticles formed through cross-linking by an Au3+ initiated redox reaction
     year: '2022'
   AlppnJ4AAAAJ:7Hz3ACDFbsoC:
     citations: 0
@@ -110,7 +110,7 @@ papers:
     title: "Cyclodextrin-based complex coacervate core micelles with tuneable supramolecular host\u2013guest, metal-to-ligand and charge interactions"
     year: '2018'
   AlppnJ4AAAAJ:Aul-kAQHnToC:
-    citations: 355
+    citations: 357
     title: "Simple 3D printed scaffold\u2010removal method for the fabrication of intricate microfluidic devices"
     year: '2015'
   AlppnJ4AAAAJ:BJbdYPG6LGMC:
@@ -189,10 +189,6 @@ papers:
     citations: 13
     title: Oxidant-responsive ferrocene-based cyclodextrin complex coacervate core micelles
     year: '2020'
-  AlppnJ4AAAAJ:OBSaB-F7qqsC:
-    citations: 3
-    title: "Microfluidic Devices: Simple 3D Printed Scaffold\u2010Removal Method for the Fabrication of Intricate Microfluidic Devices (Adv. Sci. 9/2015)"
-    year: '2015'
   AlppnJ4AAAAJ:PVgj2kMGcgYC:
     citations: 0
     title: Controlling Supramolecular Plasticity through Stoichiometry
@@ -219,14 +215,14 @@ papers:
     year: '2010'
   AlppnJ4AAAAJ:U4n9YNQMCAIC:
     citations: 8
-    title: Au 3+-Induced gel network formation of proteins
+    title: Au3+-Induced gel network formation of proteins
     year: '2021'
   AlppnJ4AAAAJ:U_HPUtbDl20C:
     citations: 0
     title: Visible light-accelerated formation of lipoprotein microgels within all-aqueous emulsions mediated by Au3+
     year: '2026'
   AlppnJ4AAAAJ:UeHWp8X0CEIC:
-    citations: 127
+    citations: 128
     title: The role of lipophilicity in transmembrane anion transport
     year: '2012'
   AlppnJ4AAAAJ:W7OEmFMy1HYC:
@@ -359,7 +355,7 @@ papers:
     year: '2018'
   AlppnJ4AAAAJ:u-x6o8ySG0sC:
     citations: 36
-    title: A remarkably flexible and selective receptor for Ba 2+ amplified from a hydrazone dynamic combinatorial library
+    title: A remarkably flexible and selective receptor for Ba2+ amplified from a hydrazone dynamic combinatorial library
     year: '2011'
   AlppnJ4AAAAJ:u5HHmVD_uO8C:
     citations: 126
