@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-05'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: "Nespresso-type capsule transformed into COVID-19 home test:\u2018It\u2019sa huge improvement on single use plastics\u2019"
     year: Unknown Year
   AlppnJ4AAAAJ:2osOgNQ5qMEC:
-    citations: 10
+    citations: 11
     title: Ion transport across membranes facilitated by a dynamic combinatorial library
     year: '2010'
   AlppnJ4AAAAJ:2tRrZ1ZAMYUC:
@@ -50,7 +50,7 @@ papers:
     title: Stoichiometry alone can steer supramolecular systems on complex free energy surfaces with high selectivity
     year: '2021'
   AlppnJ4AAAAJ:48xauSegjOkC:
-    citations: 52
+    citations: 53
     title: Coupling 3D printing and novel replica molding for in house fabrication of skeletal muscle tissue engineering devices
     year: '2020'
   AlppnJ4AAAAJ:4X0JR2_MtJMC:
@@ -58,7 +58,7 @@ papers:
     title: Covalently bound monolayer patterns obtained by plasma etching on glass surfaces
     year: '2019'
   AlppnJ4AAAAJ:5icHVeHT4IsC:
-    citations: 153
+    citations: 158
     title: 'Reaction pathways in catechol/primary amine mixtures: a window on crosslinking chemistry'
     year: '2016'
   AlppnJ4AAAAJ:6_hjMsCP8ZoC:
@@ -82,16 +82,16 @@ papers:
     title: Preparation of Au-protein microparticles with a tunable core density
     year: '2021'
   AlppnJ4AAAAJ:7wO8s98CvbsC:
-    citations: 5
+    citations: 6
     title: Microfluidic-driven short peptide hydrogels with optical waveguiding properties
     year: '2024'
   AlppnJ4AAAAJ:9yKSN-GCB0IC:
-    citations: 12
+    citations: 13
     title: Transport of calcium ions through a bulk membrane by use of a dynamic combinatorial library
     year: '2009'
   AlppnJ4AAAAJ:AHdEip9mkN0C:
     citations: 1
-    title: 'CRISPR-Clear: A Fieldable Detection Procedure for Potential CRISPR-Cas9 Gene Drive Based Bioweapons'
+    title: 'CRISPR-Clear: a fieldable detection procedure for potential CRISPR-Cas9 gene drive based bioweapons'
     year: '2019'
   AlppnJ4AAAAJ:ALROH1vI_8AC:
     citations: 0
@@ -135,10 +135,10 @@ papers:
     year: '2024'
   AlppnJ4AAAAJ:DBa1UEJaJKAC:
     citations: 2
-    title: Microalgae as a source for Stereolithography (SLA) 3D printing resin
+    title: Microalgae as a Source for Stereolithography (SLA) 3D Printing Resin
     year: '2025'
   AlppnJ4AAAAJ:F1b5ZUV5XREC:
-    citations: 43
+    citations: 42
     title: Gold nanoparticles embedded in a polymer as a 3D-printable dichroic nanocomposite material
     year: '2019'
   AlppnJ4AAAAJ:FiytvqdAVhgC:
@@ -166,8 +166,8 @@ papers:
     title: 'ESPressoscope: A small and powerful approach for in situ microscopy'
     year: '2024'
   AlppnJ4AAAAJ:LdasjJ6CEcoC:
-    citations: 11
-    title: 'HistoEnder: a 3D printer-based histological slide autostainer that retains 3D printer functions'
+    citations: 13
+    title: 'HistoEnder: A 3D printer-based histological slide autostainer that retains 3D printer functions'
     year: '2022'
   AlppnJ4AAAAJ:MAUkC_7iAq8C:
     citations: 5
@@ -194,8 +194,8 @@ papers:
     title: Controlling Supramolecular Plasticity through Stoichiometry
     year: '2019'
   AlppnJ4AAAAJ:PYBJJbyH-FwC:
-    citations: 12
-    title: 'Next step towards point-of-care molecular diagnosis of female genital schistosomiasis (FGS): evaluation of an instrument-free LAMP procedure'
+    citations: 11
+    title: 'Next step towards point-of-care molecular diagnosis of female genital schistosomiasis (FGS): Evaluation of an instrument-free LAMP procedure'
     year: '2024'
   AlppnJ4AAAAJ:PyEswDtIyv0C:
     citations: 0
@@ -222,7 +222,7 @@ papers:
     title: Visible light-accelerated formation of lipoprotein microgels within all-aqueous emulsions mediated by Au3+
     year: '2026'
   AlppnJ4AAAAJ:UeHWp8X0CEIC:
-    citations: 128
+    citations: 131
     title: The role of lipophilicity in transmembrane anion transport
     year: '2012'
   AlppnJ4AAAAJ:W7OEmFMy1HYC:
@@ -235,7 +235,7 @@ papers:
     year: '2024'
   AlppnJ4AAAAJ:WF5omc3nYNoC:
     citations: 57
-    title: A'Dial-A-Receptor'Dynamic Combinatorial Library.
+    title: A" dial-a-receptor" dynamic combinatorial library
     year: '2013'
   AlppnJ4AAAAJ:WHdLCjDvYFkC:
     citations: 1
@@ -250,7 +250,7 @@ papers:
     title: 'Metal induced folding: synthesis and conformational analysis of the lanthanide complexes of two 44-membered hydrazone macrocycles'
     year: '2012'
   AlppnJ4AAAAJ:YsMSGLbcyi4C:
-    citations: 16
+    citations: 17
     title: 'Systems chemistry: using thermodynamically controlled networks to assess molecular similarity'
     year: '2013'
   AlppnJ4AAAAJ:ZzlSgRqYykMC:
@@ -262,7 +262,7 @@ papers:
     title: "Localized template\u2010driven functionalization of nanoparticles by dynamic combinatorial chemistry"
     year: '2015'
   AlppnJ4AAAAJ:artPoR2Yc-kC:
-    citations: 59
+    citations: 61
     title: Loop-mediated isothermal amplification (LAMP) shield for Arduino DNA detection
     year: '2018'
   AlppnJ4AAAAJ:buQ7SEKw-1sC:
@@ -274,7 +274,7 @@ papers:
     title: "T\u2010Cup: A Cheap, Rapid, and Simple Home Device for Isothermal Nucleic Acid Amplification"
     year: '2022'
   AlppnJ4AAAAJ:d1gkVwhDpl0C:
-    citations: 23
+    citations: 22
     title: Remarkable stability of imino macrocycles in water
     year: '2008'
   AlppnJ4AAAAJ:eQOLeE2rZwMC:
@@ -286,7 +286,7 @@ papers:
     title: A simple low pressure drop suspension-based microfluidic mixer
     year: '2015'
   AlppnJ4AAAAJ:gKiMpY-AVTkC:
-    citations: 40
+    citations: 42
     title: Hydrogel actuators as responsive instruments for cheap open technology (HARICOT)
     year: '2017'
   AlppnJ4AAAAJ:hsZV8lGYWTMC:
@@ -302,11 +302,11 @@ papers:
     title: Variable pathlength cell for internal data validation in computer vision
     year: Unknown Year
   AlppnJ4AAAAJ:jL-93Qbq4QoC:
-    citations: 13
+    citations: 12
     title: "COvalent monolayer patterns in Microfluidics by PLasma etching Open Technology\u2013COMPLOT"
     year: '2020'
   AlppnJ4AAAAJ:jgBuDB5drN8C:
-    citations: 93
+    citations: 94
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
@@ -318,7 +318,7 @@ papers:
     title: 'Hooked on mushrooms: Preparation and mechanics of a bioinspired soft probabilistic fastener'
     year: '2021'
   AlppnJ4AAAAJ:nRpfm8aw39MC:
-    citations: 53
+    citations: 54
     title: 'A 3D Printer in the lab: Not only a toy'
     year: '2022'
   AlppnJ4AAAAJ:otzGkya1bYkC:
@@ -326,7 +326,7 @@ papers:
     title: Syntheses of gold and silver dichroic nanoparticles; looking at the Lycurgus cup colors
     year: '2021'
   AlppnJ4AAAAJ:owLR8QvbtFgC:
-    citations: 15
+    citations: 16
     title: 'EnderScope: a low-cost 3D printer-based scanning microscope for microplastic detection'
     year: '2024'
   AlppnJ4AAAAJ:prdVHNxh-e8C:
@@ -350,7 +350,7 @@ papers:
     title: A simple low pressure drop microfluidic mixer based on suspensions
     year: Unknown Year
   AlppnJ4AAAAJ:tH6gc1N1XXoC:
-    citations: 110
+    citations: 111
     title: Pushing nuclear magnetic resonance sensitivity limits with microfluidics and photo-chemically induced dynamic nuclear polarization
     year: '2018'
   AlppnJ4AAAAJ:u-x6o8ySG0sC:
@@ -358,11 +358,11 @@ papers:
     title: A remarkably flexible and selective receptor for Ba2+ amplified from a hydrazone dynamic combinatorial library
     year: '2011'
   AlppnJ4AAAAJ:u5HHmVD_uO8C:
-    citations: 126
+    citations: 127
     title: "On the formation of imines in water\u2014a comparison"
     year: '2009'
   AlppnJ4AAAAJ:uDGL6kOW6j0C:
-    citations: 12
+    citations: 13
     title: 3D Printed devices for catalytic systems
     year: '2020'
   AlppnJ4AAAAJ:ubry08Y2EpUC:
@@ -386,10 +386,10 @@ papers:
     title: Coronatest in een espressocupje
     year: Unknown Year
   AlppnJ4AAAAJ:zCSUwVk65WsC:
-    citations: 81
+    citations: 80
     title: Ender3 3D printer kit transformed into open, programmable syringe pump set
     year: '2021'
   AlppnJ4AAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: Synthesis and Application of Macrocycles Using Dynamic Combinatorial Chemistry
     year: '2012'
