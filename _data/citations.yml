@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-10'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -58,7 +58,7 @@ papers:
     title: Covalently bound monolayer patterns obtained by plasma etching on glass surfaces
     year: '2019'
   AlppnJ4AAAAJ:5icHVeHT4IsC:
-    citations: 158
+    citations: 159
     title: 'Reaction pathways in catechol/primary amine mixtures: a window on crosslinking chemistry'
     year: '2016'
   AlppnJ4AAAAJ:6_hjMsCP8ZoC:
@@ -110,7 +110,7 @@ papers:
     title: "Cyclodextrin-based complex coacervate core micelles with tuneable supramolecular host\u2013guest, metal-to-ligand and charge interactions"
     year: '2018'
   AlppnJ4AAAAJ:Aul-kAQHnToC:
-    citations: 357
+    citations: 358
     title: "Simple 3D printed scaffold\u2010removal method for the fabrication of intricate microfluidic devices"
     year: '2015'
   AlppnJ4AAAAJ:BJbdYPG6LGMC:
@@ -194,7 +194,7 @@ papers:
     title: Controlling Supramolecular Plasticity through Stoichiometry
     year: '2019'
   AlppnJ4AAAAJ:PYBJJbyH-FwC:
-    citations: 11
+    citations: 12
     title: 'Next step towards point-of-care molecular diagnosis of female genital schistosomiasis (FGS): Evaluation of an instrument-free LAMP procedure'
     year: '2024'
   AlppnJ4AAAAJ:PyEswDtIyv0C:
@@ -203,7 +203,7 @@ papers:
     year: '2026'
   AlppnJ4AAAAJ:QyXJ3EUuO1IC:
     citations: 0
-    title: "Fabrication of Sub-20 \xB5m Microfluidic Channels Using Low-Cost FDM 3D-Printed Molds-A Lab-on-Cheap Approach"
+    title: "Fabrication of sub-20 \xB5m microfluidic channels using low-cost FDM 3D-printed molds-a lab-on-cheap approach"
     year: '2026'
   AlppnJ4AAAAJ:SjuI4pbJlxcC:
     citations: 0
@@ -306,7 +306,7 @@ papers:
     title: "COvalent monolayer patterns in Microfluidics by PLasma etching Open Technology\u2013COMPLOT"
     year: '2020'
   AlppnJ4AAAAJ:jgBuDB5drN8C:
-    citations: 94
+    citations: 96
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
