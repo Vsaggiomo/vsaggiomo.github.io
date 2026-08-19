@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -58,7 +58,7 @@ papers:
     title: Covalently bound monolayer patterns obtained by plasma etching on glass surfaces
     year: '2019'
   AlppnJ4AAAAJ:5icHVeHT4IsC:
-    citations: 159
+    citations: 160
     title: 'Reaction pathways in catechol/primary amine mixtures: a window on crosslinking chemistry'
     year: '2016'
   AlppnJ4AAAAJ:6_hjMsCP8ZoC:
@@ -82,7 +82,7 @@ papers:
     title: Preparation of Au-protein microparticles with a tunable core density
     year: '2021'
   AlppnJ4AAAAJ:7wO8s98CvbsC:
-    citations: 6
+    citations: 7
     title: Microfluidic-driven short peptide hydrogels with optical waveguiding properties
     year: '2024'
   AlppnJ4AAAAJ:9yKSN-GCB0IC:
@@ -110,7 +110,7 @@ papers:
     title: "Cyclodextrin-based complex coacervate core micelles with tuneable supramolecular host\u2013guest, metal-to-ligand and charge interactions"
     year: '2018'
   AlppnJ4AAAAJ:Aul-kAQHnToC:
-    citations: 358
+    citations: 359
     title: "Simple 3D printed scaffold\u2010removal method for the fabrication of intricate microfluidic devices"
     year: '2015'
   AlppnJ4AAAAJ:BJbdYPG6LGMC:
@@ -230,11 +230,11 @@ papers:
     title: 'Novel amphiphilic cyclic oligosaccharides: synthesis and self-aggregation properties'
     year: '2007'
   AlppnJ4AAAAJ:WC23djZS0W4C:
-    citations: 1
+    citations: 2
     title: 'ESPressoscope: a small and powerful platform for in situ microscopy'
     year: '2024'
   AlppnJ4AAAAJ:WF5omc3nYNoC:
-    citations: 57
+    citations: 58
     title: A" dial-a-receptor" dynamic combinatorial library
     year: '2013'
   AlppnJ4AAAAJ:WHdLCjDvYFkC:
@@ -306,11 +306,11 @@ papers:
     title: "COvalent monolayer patterns in Microfluidics by PLasma etching Open Technology\u2013COMPLOT"
     year: '2020'
   AlppnJ4AAAAJ:jgBuDB5drN8C:
-    citations: 96
+    citations: 97
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
-    citations: 45
+    citations: 46
     title: Highly contractile 3D tissue engineered skeletal muscles from human iPSCs reveal similarities with primary myoblast-derived tissues
     year: '2023'
   AlppnJ4AAAAJ:lgwcVrK6X84C:
@@ -350,7 +350,7 @@ papers:
     title: A simple low pressure drop microfluidic mixer based on suspensions
     year: Unknown Year
   AlppnJ4AAAAJ:tH6gc1N1XXoC:
-    citations: 111
+    citations: 112
     title: Pushing nuclear magnetic resonance sensitivity limits with microfluidics and photo-chemically induced dynamic nuclear polarization
     year: '2018'
   AlppnJ4AAAAJ:u-x6o8ySG0sC:
