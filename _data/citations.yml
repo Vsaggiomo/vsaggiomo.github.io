@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-07'
 papers:
   AlppnJ4AAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -50,7 +50,7 @@ papers:
     title: Stoichiometry alone can steer supramolecular systems on complex free energy surfaces with high selectivity
     year: '2021'
   AlppnJ4AAAAJ:48xauSegjOkC:
-    citations: 53
+    citations: 54
     title: Coupling 3D printing and novel replica molding for in house fabrication of skeletal muscle tissue engineering devices
     year: '2020'
   AlppnJ4AAAAJ:4X0JR2_MtJMC:
@@ -194,7 +194,7 @@ papers:
     title: Controlling Supramolecular Plasticity through Stoichiometry
     year: '2019'
   AlppnJ4AAAAJ:PYBJJbyH-FwC:
-    citations: 12
+    citations: 13
     title: 'Next step towards point-of-care molecular diagnosis of female genital schistosomiasis (FGS): Evaluation of an instrument-free LAMP procedure'
     year: '2024'
   AlppnJ4AAAAJ:PyEswDtIyv0C:
@@ -203,7 +203,7 @@ papers:
     year: '2026'
   AlppnJ4AAAAJ:QyXJ3EUuO1IC:
     citations: 0
-    title: "Fabrication of sub-20 \xB5m microfluidic channels using low-cost FDM 3D-printed molds-a lab-on-cheap approach"
+    title: "Fabrication of sub-20 \xB5m microfluidic channels using low-cost FDM 3D-printed molds\u2013a lab-on-cheap approach"
     year: '2026'
   AlppnJ4AAAAJ:SjuI4pbJlxcC:
     citations: 0
@@ -270,7 +270,7 @@ papers:
     title: "Assembly, Disassembly and Reassembly of Complex Coacervate Core Micelles with Redox\u2010Responsive Supramolecular Cross\u2010Linkers"
     year: '2020'
   AlppnJ4AAAAJ:cK4Rrx0J3m0C:
-    citations: 24
+    citations: 25
     title: "T\u2010Cup: A Cheap, Rapid, and Simple Home Device for Isothermal Nucleic Acid Amplification"
     year: '2022'
   AlppnJ4AAAAJ:d1gkVwhDpl0C:
@@ -310,7 +310,7 @@ papers:
     title: The field guide to 3D printing in optical microscopy for life sciences
     year: '2022'
   AlppnJ4AAAAJ:kw52XkFRtyQC:
-    citations: 47
+    citations: 48
     title: Highly contractile 3D tissue engineered skeletal muscles from human iPSCs reveal similarities with primary myoblast-derived tissues
     year: '2023'
   AlppnJ4AAAAJ:lgwcVrK6X84C:
@@ -318,11 +318,11 @@ papers:
     title: 'Hooked on mushrooms: Preparation and mechanics of a bioinspired soft probabilistic fastener'
     year: '2021'
   AlppnJ4AAAAJ:nRpfm8aw39MC:
-    citations: 55
+    citations: 56
     title: 'A 3D Printer in the lab: Not only a toy'
     year: '2022'
   AlppnJ4AAAAJ:otzGkya1bYkC:
-    citations: 31
+    citations: 30
     title: Syntheses of gold and silver dichroic nanoparticles; looking at the Lycurgus cup colors
     year: '2021'
   AlppnJ4AAAAJ:owLR8QvbtFgC:
@@ -386,7 +386,7 @@ papers:
     title: Coronatest in een espressocupje
     year: Unknown Year
   AlppnJ4AAAAJ:zCSUwVk65WsC:
-    citations: 80
+    citations: 81
     title: Ender3 3D printer kit transformed into open, programmable syringe pump set
     year: '2021'
   AlppnJ4AAAAJ:zYLM7Y9cAGgC:
